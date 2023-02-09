@@ -1,17 +1,9 @@
 ### Hi I'm Esraa Elmasry 👋
 
-<!--
-**Esraa-Elmasry/Esraa-Elmasry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning on Advanced Full-Stack Web Development Nanodegree Program
 
-Here are some ideas to get you started:
+[ Advanced Full-Stack Web Development](https://egfwd.com/specializtion/web-development-advanced/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node.Js
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me:
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+- [LinkedIn](https://www.linkedin.com/in/esraa-elmasry/)
